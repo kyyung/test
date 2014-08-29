@@ -2,4 +2,4 @@ test
 ====
 Change it and commit.
 
-my branch - main commit 1
+my branch - main commit 2
