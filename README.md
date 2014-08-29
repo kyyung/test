@@ -2,4 +2,4 @@ test
 ====
 Change it and commit.
 
-my branch - main commit 2
+my branch in feature x
